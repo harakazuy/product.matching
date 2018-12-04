@@ -1,0 +1,27 @@
+/* footer */
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.footer-container{
+  display: flex;
+  text-align: center;
+  background-color: #b0c4de;
+  padding: 10px 0 0 0;
+}
+.footer-container > div{
+  flex-grow: 1;
+}
+.icon-exclamation{
+  color: #fff;
+}
+.icon-globe{
+  font-size: 25px;
+}
+.icon-handshake{
+  font-size: 25px;
+}
+.icon-newspaper{
+  font-size: 25px;
+}
